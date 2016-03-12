@@ -13,6 +13,19 @@ That's a lot to pack in, so this session is going to move fast, and I'm going to
 
 Since we only have time to hit the very basics, I've also included some additional points you might find useful under the "What we're not covering" heading of each section below. There are also some resources at the bottom of this document that I hope will be helpful if you decide to learn more about this on your own.
 
+Installation
+============
+
+If you would like to install and run this on your own machine, do this (requires Python and pip):
+
+```
+git clone git@github.com:cjdd3b/nicar2016.git
+cd nicar2016/machine-learning
+pip install -r requirements.txt
+```
+
+To run, simply type ```python learn.py```.
+
 Feature engineering
 ===================
 
